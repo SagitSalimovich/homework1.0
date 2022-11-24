@@ -1,0 +1,15 @@
+C:\Users\Сагит\Downloads\semminar\Homework\Semminar1\bin\Debug\net6.0\Semminar1.exe
+C:\Users\Сагит\Downloads\semminar\Homework\Semminar1\bin\Debug\net6.0\Semminar1.deps.json
+C:\Users\Сагит\Downloads\semminar\Homework\Semminar1\bin\Debug\net6.0\Semminar1.runtimeconfig.json
+C:\Users\Сагит\Downloads\semminar\Homework\Semminar1\bin\Debug\net6.0\Semminar1.dll
+C:\Users\Сагит\Downloads\semminar\Homework\Semminar1\bin\Debug\net6.0\Semminar1.pdb
+C:\Users\Сагит\Downloads\semminar\Homework\Semminar1\obj\Debug\net6.0\Semminar1.csproj.AssemblyReference.cache
+C:\Users\Сагит\Downloads\semminar\Homework\Semminar1\obj\Debug\net6.0\Semminar1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сагит\Downloads\semminar\Homework\Semminar1\obj\Debug\net6.0\Semminar1.AssemblyInfoInputs.cache
+C:\Users\Сагит\Downloads\semminar\Homework\Semminar1\obj\Debug\net6.0\Semminar1.AssemblyInfo.cs
+C:\Users\Сагит\Downloads\semminar\Homework\Semminar1\obj\Debug\net6.0\Semminar1.csproj.CoreCompileInputs.cache
+C:\Users\Сагит\Downloads\semminar\Homework\Semminar1\obj\Debug\net6.0\Semminar1.dll
+C:\Users\Сагит\Downloads\semminar\Homework\Semminar1\obj\Debug\net6.0\refint\Semminar1.dll
+C:\Users\Сагит\Downloads\semminar\Homework\Semminar1\obj\Debug\net6.0\Semminar1.pdb
+C:\Users\Сагит\Downloads\semminar\Homework\Semminar1\obj\Debug\net6.0\Semminar1.genruntimeconfig.cache
+C:\Users\Сагит\Downloads\semminar\Homework\Semminar1\obj\Debug\net6.0\ref\Semminar1.dll
